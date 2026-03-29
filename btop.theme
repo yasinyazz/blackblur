@@ -1,0 +1,69 @@
+# ────────────────────────────────────────────────────────────
+# BTOP THEME — Rainy Night City (Monochrome)
+# ────────────────────────────────────────────────────────────
+
+# Dark background
+theme[main_bg]="#1a1a1a"
+
+# Main text – light grey
+theme[main_fg]="#d0d0d0"
+
+# Titles – white
+theme[title]="#f0f0f0"
+
+# Highlight text – light grey
+theme[hi_fg]="#c0c0c0"
+
+# Selected row – dark grey
+theme[selected_bg]="#2a2a2a"
+
+# Selected row text – bright white
+theme[selected_fg]="#ffffff"
+
+# Inactive/dim text – medium grey
+theme[inactive_fg]="#808080"
+
+# Misc text – light grey
+theme[proc_misc]="#c0c0c0"
+
+# Box outlines – dark grey
+theme[cpu_box]="#333333"
+theme[mem_box]="#333333"
+theme[net_box]="#333333"
+theme[proc_box]="#333333"
+
+# Divider lines – dark grey
+theme[div_line]="#333333"
+
+# Graph gradients – monochrome grey scale
+theme[temp_start]="#3a3a3a"
+theme[temp_mid]="#909090"
+theme[temp_end]="#e0e0e0"
+
+theme[cpu_start]="#3a3a3a"
+theme[cpu_mid]="#909090"
+theme[cpu_end]="#e0e0e0"
+
+theme[free_start]="#3a3a3a"
+theme[free_mid]="#909090"
+theme[free_end]="#e0e0e0"
+
+theme[cached_start]="#3a3a3a"
+theme[cached_mid]="#909090"
+theme[cached_end]="#e0e0e0"
+
+theme[available_start]="#3a3a3a"
+theme[available_mid]="#909090"
+theme[available_end]="#e0e0e0"
+
+theme[used_start]="#3a3a3a"
+theme[used_mid]="#909090"
+theme[used_end]="#e0e0e0"
+
+theme[download_start]="#3a3a3a"
+theme[download_mid]="#909090"
+theme[download_end]="#e0e0e0"
+
+theme[upload_start]="#3a3a3a"
+theme[upload_mid]="#909090"
+theme[upload_end]="#e0e0e0"
